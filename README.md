@@ -1,2 +1,2 @@
 # MorphodynamicProfiling
-Main
+Run main.m for morphodynamics analysis
